@@ -1,0 +1,32 @@
+.heading {
+    width: 100%;
+    background-color: #ffebeb;
+    border-radius: 30px;
+}
+.heading h3{
+    font-size: 30px;
+    border-radius: 30px;
+}
+.heading button{
+    border: 3px rgb(0, 0, 0);
+    background-color: #ddffff;
+    border-radius: 30px;
+}
+#img{
+    width: 100%;
+}
+#start{
+    font-size: 20px;
+    border: 3px black;
+    background-color: #ffebeb;
+    border-radius: 30px;
+}
+#status{
+    font-size: 20px;
+    border: 3px black;
+    background-color: #ddffff;
+    border-radius: 30px;
+}
+.modal-dialog{
+    width:90%;
+}
